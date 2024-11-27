@@ -23,9 +23,9 @@
 |  **이름** | **역할** | **email** | **github** |
 | --- | --- | --- | --- |
 | 장성혁 (PL) | 프론트 | [edicom000111@ajou.ac.kr](mailto:edicom000111@ajou.ac.kr) | https://github.com/ajou4095 |
-| 정은재 | 프론트 | siria22@ajou.ac.kr | https://github.com/scgv2222@naver.com  |
-| 김동권 | 백엔드 | dafeg3@ajou.ac.kr | https://github.com/dafeg3@naver.com |
-| 신지항 | 백엔드 | tlswlgkd565@ajou.ac.kr | https://github.com/tlswlgkd565@gmail.com |
+| 정은재 | 프론트 | siria22@ajou.ac.kr | https://github.com/siria22 |
+| 김동권 | 백엔드 | dafeg3@ajou.ac.kr | https://github.com/kwon204 |
+| 신지항 | 백엔드 | tlswlgkd565@ajou.ac.kr | https://github.com/zihang98 |
 | 이정태 | 백엔드 | sms3025@ajou.ac.kr | https://github.com/sms3025 |
 
 ## 프로젝트 레포지토리
