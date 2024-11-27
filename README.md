@@ -1,4 +1,4 @@
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/87e9c842-1c80-43fd-b2cc-75fb64779ce9/814e3eed-b819-4163-8760-7915fc6432b4/image.png)
+![Thumbnail](https://github.com/user-attachments/assets/7aa6a966-973a-48a4-a6db-404f2499e5ac)
 
 ## 프로젝트 개요
 
@@ -36,6 +36,6 @@
 
 ## 프로젝트 상세 정보
 
-![SW캡스톤디자인_01_LinkerBell.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/87e9c842-1c80-43fd-b2cc-75fb64779ce9/9d8b4cdd-4620-40a9-a678-bb093a68826d/SW%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_01_LinkerBell.png)
+![SW캡스톤디자인_01_LinkerBell](https://github.com/user-attachments/assets/abc63240-d4bd-4adc-b6f1-5601afe35b95)
 
 아주대학교 SW캡스톤디자인 과목의 일환으로, 5인으로 구성된 LinkerBell 팀이 2024년 9월부터 12월까지 진행하였습니다.
